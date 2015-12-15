@@ -1,7 +1,7 @@
-## Code-Parser
+# Code-Parser
 Repository for the code parsing project
 
-#Task
+##Task
 
 1. Parse 1 million lines of:
   -Ruby code
@@ -15,7 +15,7 @@ C++ - ... google it
 
 There must be a list of repositories.
 
-#Plan:
+##Plan:
 
 1. Title
 2. Description of the project
@@ -29,4 +29,4 @@ There must be a list of repositories.
 
 
 
-*Deadline - 12 January 2016*
+###*Deadline - 12 January 2016*
